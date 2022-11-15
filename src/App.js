@@ -65,7 +65,7 @@ function App() {
     return (
         <div className="tic-tac-toe">
             <h1> Tic-Tac-Toe </h1>
-            <h2> Are you ready </h2>
+            <h2> Are you ready !! </h2>
             <a href="https://www.linkedin.com/in/singhharsh14/" target="_blank" rel="noreferrer">
           <button>Linkedin</button>
         </a>
